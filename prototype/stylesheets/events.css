@@ -1,0 +1,31 @@
+body {
+   background: #fdfdfd;
+   color: #000;
+   font-size: 1em;
+   line-height: 1.4;
+   margin: 0;
+   padding: 0;
+}
+
+	.event{
+		list-style-type:none;
+	}
+	.eventItemName{
+		color:red;
+		font-style:normal;
+		display: inline-block;
+
+	}
+	.eventItemDatetime{
+		color:darkolivegreen;
+	}
+	.eventItemLocation{
+		color:pink;
+	}
+	.eventItemDesc{
+		font-size:large;
+	}
+	
+	h2{
+		
+	}
